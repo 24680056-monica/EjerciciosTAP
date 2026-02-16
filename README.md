@@ -1,4 +1,4 @@
-# Inicio de una interfaz de calculadora <br>
+# Inicio de una  de calculadora <br>
 ## Implementación de Flet
 Antes de mostrar el desarrollo de la interfaz la cual se muestra a través de Flet, por lo que se realiza la instalación de este<br>
 creando un entorno virtual a traves de Git Bash, asi que inicialmente  se genera una una carpeta donde ahi se implementara Flet:
